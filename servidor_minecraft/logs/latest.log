@@ -1,3 +1,6 @@
 [00:03:09] [Server thread/INFO]: Mastergame51 was shot by Skeleton
 [00:04:12] [Server thread/INFO]: Villager class_1646['Fisherman'/17, l='ServerLevel[world]', x=1854.70, y=66.00, z=-210.45] died, message: 'Fisherman was slain by Zombie'
 [00:14:43] [Server thread/INFO]: Mastergame51 was blown up by Creeper
+[00:42:19] [Server thread/WARN]: Failed to update secure chat state for Mastergame51: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[00:42:19] [Server thread/INFO]: <Mastergame51> 1900 -20 -180
+[00:43:18] [Server thread/INFO]: Mastergame51 has made the advancement [Cover Me with Diamonds]
