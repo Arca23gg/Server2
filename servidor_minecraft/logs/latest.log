@@ -10,3 +10,14 @@
 [01:05:17] [Server thread/INFO]: Mastergame51 left the game
 [01:09:37] [Server thread/INFO]: Arca_GG lost connection: Disconnected
 [01:09:37] [Server thread/INFO]: Arca_GG left the game
+[01:53:22] [Server thread/INFO]: Stopping the server
+[01:53:22] [Server thread/INFO]: Stopping server
+[01:53:22] [Server thread/INFO]: Saving players
+[01:53:22] [Server thread/INFO]: Saving worlds
+[01:53:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:53:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:53:22] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:53:22] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
