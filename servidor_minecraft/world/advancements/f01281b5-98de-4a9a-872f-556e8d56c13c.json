@@ -268,10 +268,12 @@
     "criteria": {
       "minecraft:cave_spider": "2024-12-31 21:59:41 +0000",
       "minecraft:skeleton": "2024-12-30 02:55:45 +0000",
+      "minecraft:piglin": "2024-12-31 22:54:30 +0000",
       "minecraft:enderman": "2024-12-31 00:33:27 +0000",
       "minecraft:magma_cube": "2024-12-31 22:40:49 +0000",
       "minecraft:witch": "2024-12-31 00:27:47 +0000",
       "minecraft:spider": "2024-12-31 00:09:46 +0000",
+      "minecraft:piglin_brute": "2024-12-31 22:50:42 +0000",
       "minecraft:zombie": "2024-12-30 02:38:31 +0000",
       "minecraft:creeper": "2024-12-30 03:07:20 +0000",
       "minecraft:zombie_villager": "2024-12-30 02:38:04 +0000"
@@ -1951,6 +1953,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-31 22:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-31 22:41:18 +0000"
@@ -1978,6 +1986,18 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-31 22:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-31 22:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-31 22:51:00 +0000"
     },
     "done": true
   },
@@ -2023,9 +2043,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-31 22:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2024-12-31 22:40:29 +0000",
+      "minecraft:basalt_deltas": "2024-12-31 22:58:50 +0000",
       "minecraft:warped_forest": "2024-12-31 22:42:51 +0000"
     },
     "done": false
@@ -2036,15 +2063,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-31 22:59:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-31 22:40:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-31 22:59:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2024-12-31 22:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-31 22:51:00 +0000"
     },
     "done": true
   },
@@ -2072,9 +2117,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-31 22:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-12-31 22:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2024-12-31 22:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-31 22:59:54 +0000"
     },
     "done": true
   },
@@ -2138,6 +2201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-31 22:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-12-31 22:28:21 +0000"
@@ -2180,6 +2249,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-31 22:59:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-31 22:28:21 +0000"
@@ -2189,6 +2264,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-12-31 22:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-31 22:51:00 +0000"
     },
     "done": true
   },
@@ -2207,6 +2288,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-31 22:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-31 22:59:54 +0000"
     },
     "done": true
   },
