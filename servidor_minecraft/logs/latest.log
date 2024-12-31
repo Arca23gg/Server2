@@ -32,3 +32,19 @@
 [21:19:42] [Server thread/INFO]: Mastergame51 lost connection: You logged in from another location
 [21:19:42] [Server thread/INFO]: Mastergame51 left the game
 [21:19:42] [Server thread/WARN]: handleDisconnection() called twice
+[21:19:43] [Server thread/INFO]: Mastergame51[/100.117.166.33:62069] logged in with entity id 2401 at (1854.993166019107, 70.0, -209.30000001192093)
+[21:19:43] [Server thread/INFO]: Mastergame51 joined the game
+[21:19:51] [User Authenticator #4/INFO]: UUID of player Mastergame51 is f01281b5-98de-4a9a-872f-556e8d56c13c
+[21:19:51] [Server thread/INFO]: Mastergame51 lost connection: You logged in from another location
+[21:19:51] [Server thread/INFO]: Mastergame51 left the game
+[21:19:52] [Server thread/INFO]: Mastergame51[/100.117.166.33:62075] logged in with entity id 2449 at (1854.993166019107, 70.0, -209.30000001192093)
+[21:19:52] [Server thread/INFO]: Mastergame51 joined the game
+[21:22:05] [Server thread/INFO]: Mastergame51 lost connection: Disconnected
+[21:22:05] [Server thread/INFO]: Mastergame51 left the game
+[21:22:12] [User Authenticator #5/INFO]: UUID of player Mastergame51 is f01281b5-98de-4a9a-872f-556e8d56c13c
+[21:22:13] [Server thread/INFO]: Mastergame51[/100.117.166.33:62142] logged in with entity id 2894 at (1867.7071665362193, 69.24918707874468, -237.38143160470722)
+[21:22:13] [Server thread/INFO]: Mastergame51 joined the game
+[21:28:05] [Server thread/INFO]: Mastergame51 has made the advancement [The Parrots and the Bats]
+[21:35:54] [Server thread/INFO]: Mastergame51 has made the advancement [Ice Bucket Challenge]
+[21:42:31] [Server thread/WARN]: Failed to update secure chat state for Mastergame51: 'Chat disabled due to missing profile public key. Please try reconnecting.'
+[21:42:31] [Server thread/INFO]: <Mastergame51> 1500 -22 -120

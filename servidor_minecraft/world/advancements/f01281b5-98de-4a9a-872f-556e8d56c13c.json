@@ -12,6 +12,7 @@
       "minecraft:cherry_grove": "2024-12-30 02:52:52 +0000",
       "minecraft:river": "2024-12-30 03:20:12 +0000",
       "minecraft:meadow": "2024-12-30 02:50:40 +0000",
+      "minecraft:windswept_hills": "2024-12-31 21:34:21 +0000",
       "minecraft:dripstone_caves": "2024-12-30 02:53:57 +0000",
       "minecraft:plains": "2024-12-30 02:50:09 +0000"
     },
@@ -1902,6 +1903,30 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_boots": "2024-12-31 00:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-31 21:28:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-31 21:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-31 21:35:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-31 21:28:05 +0000"
     },
     "done": true
   },
