@@ -442,7 +442,8 @@
       "minecraft:cave_spider": "2024-12-31 00:01:54 +0000",
       "minecraft:skeleton": "2024-12-31 00:32:17 +0000",
       "minecraft:spider": "2024-12-30 03:07:07 +0000",
-      "minecraft:zombie": "2024-12-30 02:56:05 +0000"
+      "minecraft:zombie": "2024-12-30 02:56:05 +0000",
+      "minecraft:creeper": "2024-12-31 22:03:19 +0000"
     },
     "done": false
   },
@@ -1697,6 +1698,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-12-31 21:15:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-31 22:06:27 +0000"
     },
     "done": true
   },
