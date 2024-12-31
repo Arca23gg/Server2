@@ -66,3 +66,18 @@
 [22:56:11] [Server thread/INFO]: Arca_GG has made the advancement [Who is Cutting Onions?]
 [22:59:47] [Server thread/INFO]: Arca_GG has made the advancement [War Pigs]
 [22:59:50] [Server thread/INFO]: Mastergame51 has made the advancement [Who is Cutting Onions?]
+[23:01:52] [Server thread/INFO]: Arca_GG lost connection: Disconnected
+[23:01:52] [Server thread/INFO]: Arca_GG left the game
+[23:01:53] [Server thread/INFO]: Mastergame51 lost connection: Disconnected
+[23:01:53] [Server thread/INFO]: Mastergame51 left the game
+[23:02:14] [Server thread/INFO]: Stopping the server
+[23:02:14] [Server thread/INFO]: Stopping server
+[23:02:14] [Server thread/INFO]: Saving players
+[23:02:14] [Server thread/INFO]: Saving worlds
+[23:02:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:02:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:02:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:02:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:02:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:02:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:02:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
