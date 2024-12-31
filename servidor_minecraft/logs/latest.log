@@ -48,3 +48,8 @@
 [21:35:54] [Server thread/INFO]: Mastergame51 has made the advancement [Ice Bucket Challenge]
 [21:42:31] [Server thread/WARN]: Failed to update secure chat state for Mastergame51: 'Chat disabled due to missing profile public key. Please try reconnecting.'
 [21:42:31] [Server thread/INFO]: <Mastergame51> 1500 -22 -120
+[22:12:39] [Server thread/INFO]: Mastergame51 lost connection: Disconnected
+[22:12:39] [Server thread/INFO]: Mastergame51 left the game
+[22:14:57] [User Authenticator #6/INFO]: UUID of player Mastergame51 is f01281b5-98de-4a9a-872f-556e8d56c13c
+[22:14:58] [Server thread/INFO]: Mastergame51[/100.117.166.33:51180] logged in with entity id 14638 at (1598.57787770322, -21.75081292125532, -133.83674710092134)
+[22:14:58] [Server thread/INFO]: Mastergame51 joined the game

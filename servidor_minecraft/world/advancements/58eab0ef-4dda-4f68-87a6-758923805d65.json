@@ -443,7 +443,8 @@
       "minecraft:skeleton": "2024-12-31 00:32:17 +0000",
       "minecraft:spider": "2024-12-30 03:07:07 +0000",
       "minecraft:zombie": "2024-12-30 02:56:05 +0000",
-      "minecraft:creeper": "2024-12-31 22:03:19 +0000"
+      "minecraft:creeper": "2024-12-31 22:03:19 +0000",
+      "minecraft:slime": "2024-12-31 22:14:56 +0000"
     },
     "done": false
   },
@@ -1671,6 +1672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-31 22:15:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_wall": {
     "criteria": {
       "has_tuff": "2024-12-31 21:32:47 +0000"
@@ -1719,6 +1726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-31 22:15:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-31 21:32:47 +0000"
@@ -1764,6 +1777,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-12-31 21:32:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-31 22:15:10 +0000"
     },
     "done": true
   },
