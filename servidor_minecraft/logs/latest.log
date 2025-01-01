@@ -1,83 +1,21 @@
-[21:09:52] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[21:09:52] [main/INFO]: Loading 4 mods:
+[16:09:56] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[16:09:57] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 21
 	- minecraft 1.21.1
-[21:09:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[21:10:00] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:10:03] [main/INFO]: Loaded 1290 recipes
-[21:10:03] [main/INFO]: Loaded 1399 advancements
-[21:10:04] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:10:04] [Server thread/INFO]: Loading properties
-[21:10:04] [Server thread/INFO]: Default game type: SURVIVAL
-[21:10:04] [Server thread/INFO]: Generating keypair
-[21:10:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:10:04] [Server thread/INFO]: Using epoll channel type
-[21:10:04] [Server thread/INFO]: Preparing level "world"
-[21:10:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:10:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:10:08] [Worker-Main-2/INFO]: Preparing spawn area: 10%
-[21:10:09] [Worker-Main-3/INFO]: Preparing spawn area: 48%
-[21:10:09] [Worker-Main-1/INFO]: Preparing spawn area: 91%
-[21:10:09] [Server thread/INFO]: Time elapsed: 1529 ms
-[21:10:09] [Server thread/INFO]: Done (5.131s)! For help, type "help"
-[21:11:03] [User Authenticator #1/INFO]: UUID of player Arca_GG is 58eab0ef-4dda-4f68-87a6-758923805d65
-[21:11:04] [Server thread/INFO]: Arca_GG[/100.98.59.6:65034] logged in with entity id 15 at (1855.9628383911552, 70.0, -210.5410224367928)
-[21:11:04] [Server thread/INFO]: Arca_GG joined the game
-[21:19:19] [User Authenticator #2/INFO]: UUID of player Mastergame51 is f01281b5-98de-4a9a-872f-556e8d56c13c
-[21:19:20] [Server thread/INFO]: Mastergame51[/100.117.166.33:62055] logged in with entity id 2315 at (1854.993166019107, 70.0, -209.30000001192093)
-[21:19:20] [Server thread/INFO]: Mastergame51 joined the game
-[21:19:42] [User Authenticator #3/INFO]: UUID of player Mastergame51 is f01281b5-98de-4a9a-872f-556e8d56c13c
-[21:19:42] [Server thread/INFO]: Mastergame51 lost connection: You logged in from another location
-[21:19:42] [Server thread/INFO]: Mastergame51 left the game
-[21:19:42] [Server thread/WARN]: handleDisconnection() called twice
-[21:19:43] [Server thread/INFO]: Mastergame51[/100.117.166.33:62069] logged in with entity id 2401 at (1854.993166019107, 70.0, -209.30000001192093)
-[21:19:43] [Server thread/INFO]: Mastergame51 joined the game
-[21:19:51] [User Authenticator #4/INFO]: UUID of player Mastergame51 is f01281b5-98de-4a9a-872f-556e8d56c13c
-[21:19:51] [Server thread/INFO]: Mastergame51 lost connection: You logged in from another location
-[21:19:51] [Server thread/INFO]: Mastergame51 left the game
-[21:19:52] [Server thread/INFO]: Mastergame51[/100.117.166.33:62075] logged in with entity id 2449 at (1854.993166019107, 70.0, -209.30000001192093)
-[21:19:52] [Server thread/INFO]: Mastergame51 joined the game
-[21:22:05] [Server thread/INFO]: Mastergame51 lost connection: Disconnected
-[21:22:05] [Server thread/INFO]: Mastergame51 left the game
-[21:22:12] [User Authenticator #5/INFO]: UUID of player Mastergame51 is f01281b5-98de-4a9a-872f-556e8d56c13c
-[21:22:13] [Server thread/INFO]: Mastergame51[/100.117.166.33:62142] logged in with entity id 2894 at (1867.7071665362193, 69.24918707874468, -237.38143160470722)
-[21:22:13] [Server thread/INFO]: Mastergame51 joined the game
-[21:28:05] [Server thread/INFO]: Mastergame51 has made the advancement [The Parrots and the Bats]
-[21:35:54] [Server thread/INFO]: Mastergame51 has made the advancement [Ice Bucket Challenge]
-[21:42:31] [Server thread/WARN]: Failed to update secure chat state for Mastergame51: 'Chat disabled due to missing profile public key. Please try reconnecting.'
-[21:42:31] [Server thread/INFO]: <Mastergame51> 1500 -22 -120
-[22:12:39] [Server thread/INFO]: Mastergame51 lost connection: Disconnected
-[22:12:39] [Server thread/INFO]: Mastergame51 left the game
-[22:14:57] [User Authenticator #6/INFO]: UUID of player Mastergame51 is f01281b5-98de-4a9a-872f-556e8d56c13c
-[22:14:58] [Server thread/INFO]: Mastergame51[/100.117.166.33:51180] logged in with entity id 14638 at (1598.57787770322, -21.75081292125532, -133.83674710092134)
-[22:14:58] [Server thread/INFO]: Mastergame51 joined the game
-[22:34:23] [Server thread/INFO]: Arca_GG has made the advancement [Enchanter]
-[22:34:28] [Server thread/INFO]: Mastergame51 has made the advancement [Enchanter]
-[22:40:27] [Server thread/INFO]: Arca_GG has made the advancement [We Need to Go Deeper]
-[22:40:29] [Server thread/INFO]: Mastergame51 has made the advancement [We Need to Go Deeper]
-[22:44:05] [Server thread/INFO]: Mastergame51 has made the advancement [Those Were the Days]
-[22:45:06] [Server thread/INFO]: Arca_GG has made the advancement [Those Were the Days]
-[22:50:19] [Server thread/INFO]: Arca_GG was slain by Piglin Brute
-[22:51:10] [Server thread/INFO]: Mastergame51 has made the advancement [War Pigs]
-[22:53:32] [Server thread/INFO]: Arca_GG was slain by Piglin
-[22:54:24] [Server thread/INFO]: Arca_GG was slain by Piglin
-[22:56:11] [Server thread/INFO]: Arca_GG has made the advancement [Who is Cutting Onions?]
-[22:59:47] [Server thread/INFO]: Arca_GG has made the advancement [War Pigs]
-[22:59:50] [Server thread/INFO]: Mastergame51 has made the advancement [Who is Cutting Onions?]
-[23:01:52] [Server thread/INFO]: Arca_GG lost connection: Disconnected
-[23:01:52] [Server thread/INFO]: Arca_GG left the game
-[23:01:53] [Server thread/INFO]: Mastergame51 lost connection: Disconnected
-[23:01:53] [Server thread/INFO]: Mastergame51 left the game
-[23:02:14] [Server thread/INFO]: Stopping the server
-[23:02:14] [Server thread/INFO]: Stopping server
-[23:02:14] [Server thread/INFO]: Saving players
-[23:02:14] [Server thread/INFO]: Saving worlds
-[23:02:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:02:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[23:02:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[23:02:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:02:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:02:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:02:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:09:57] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server2/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:10:02] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:10:04] [main/INFO]: Loaded 1290 recipes
+[16:10:04] [main/INFO]: Loaded 1399 advancements
+[16:10:05] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:10:05] [Server thread/INFO]: Loading properties
+[16:10:05] [Server thread/INFO]: Default game type: SURVIVAL
+[16:10:05] [Server thread/INFO]: Generating keypair
+[16:10:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:10:05] [Server thread/INFO]: Using epoll channel type
+[16:10:05] [Server thread/INFO]: Preparing level "world"
+[16:10:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:10:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:10:08] [Server thread/INFO]: Time elapsed: 505 ms
+[16:10:08] [Server thread/INFO]: Done (2.880s)! For help, type "help"
