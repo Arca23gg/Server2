@@ -19,3 +19,19 @@
 [16:10:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
 [16:10:08] [Server thread/INFO]: Time elapsed: 505 ms
 [16:10:08] [Server thread/INFO]: Done (2.880s)! For help, type "help"
+[16:20:05] [User Authenticator #1/INFO]: UUID of player Arca_GG is 58eab0ef-4dda-4f68-87a6-758923805d65
+[16:20:06] [Server thread/INFO]: Arca_GG[/100.98.59.6:63756] logged in with entity id 15 at (204.30000001192093, 60.0, 133.69999998807907)
+[16:20:06] [Server thread/INFO]: Arca_GG joined the game
+[16:20:20] [Server thread/INFO]: Arca_GG lost connection: Disconnected
+[16:20:20] [Server thread/INFO]: Arca_GG left the game
+[16:20:38] [Server thread/INFO]: Stopping the server
+[16:20:38] [Server thread/INFO]: Stopping server
+[16:20:38] [Server thread/INFO]: Saving players
+[16:20:38] [Server thread/INFO]: Saving worlds
+[16:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:20:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:20:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:20:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:20:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:20:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
